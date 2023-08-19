@@ -5,7 +5,7 @@ we all aims to build the most essentail part of an online judge system:
 The judge machine.
 
 But recently I found it's really difficult to decide
-which functionality the service will need for the judger.
+which functionality the service will be needed for the judger.
 
 So we decide to restart the development of oj-lab-service,
 to find out what functionalities we will need in the future.

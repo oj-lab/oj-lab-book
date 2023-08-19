@@ -6,6 +6,8 @@
 
 - [Judger]()
 - [OJ Lab Services]()
+  - [Development]()
+    - [Recommanded Setup](./oj-lab-services/development/recommanded-setup.md)
 - [OJ Lab Front]()
 
 # Recent News
