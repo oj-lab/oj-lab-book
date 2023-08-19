@@ -1,0 +1,12 @@
+{
+    "markdownlint.config": {
+        "no-inline-html": {
+            "allowed_elements": [
+                "img",
+                "u"
+            ]
+        },
+        "no-empty-links": false,
+        "single-h1": false,
+    }
+}
