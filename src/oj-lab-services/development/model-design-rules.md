@@ -28,6 +28,18 @@ the model will carry different fields.
 
 ### Model Associations
 
+The model may have associations with other models.
+(
+	For example,
+	the `user` model may have a `role` field,
+	which is a list of `role` model.
+	Also,
+	the `role` model may have a `user` field,
+	which is a list of `user` model.
+)
+Usually, controlling these associations is very complex,
+but we can rely on GORM to make it easier.
+
 ### Solutions
 
 Thanks to the ability of struct tag in JSON and GORM,
