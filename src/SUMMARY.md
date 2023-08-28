@@ -5,6 +5,8 @@
 # Components
 
 - [Judger]()
+  - [Design]()
+    - [Judge API v1](./judger/design/judge-api-v1.md)
 - [OJ Lab Services]()
   - [Design]()
     - [Problem API v1](./oj-lab-services/design/problem-api-v1.md)
