@@ -6,6 +6,8 @@
 
 - [Judger]()
 - [OJ Lab Services]()
+  - [Design]()
+    - [Problem API v1](./oj-lab-services/design/problem-api-v1.md)
   - [Development]()
     - [Recommanded Setup](./oj-lab-services/development/recommanded-setup.md)
     - [Model Design Rules](./oj-lab-services/development/model-design-rules.md)
