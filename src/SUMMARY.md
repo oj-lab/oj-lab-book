@@ -13,6 +13,7 @@
   - [Development]()
     - [Recommanded Setup](./oj-lab-services/development/recommanded-setup.md)
     - [Model Design Rules](./oj-lab-services/development/model-design-rules.md)
+    - [Run Judge V1](./oj-lab-services/development/run-judge-v1.md)
 - [OJ Lab Front]()
   - [Development]()
     - [Recommanded Setup](./oj-lab-front/development/recommanded-setup.md)
